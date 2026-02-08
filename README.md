@@ -1,3 +1,5 @@
+<img width="2000" height="1000" alt="image" src="https://github.com/user-attachments/assets/1ee8d2a9-8ed1-49e8-9f8b-362a106a75fc" />
+
 # pipex
 
 A program that mimics the behavior of shell pipes, redirecting output between commands as part of the 42 School curriculum.
